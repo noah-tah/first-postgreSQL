@@ -1,0 +1,5 @@
+#ignore database configuration files
+db.properties
+
+#ignore environment variable files
+.env
